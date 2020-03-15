@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "Noah";  
+	src: url("../Fotns/Noah-Bold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: "Gilroy";  
+	src: url("../Fotns/Gilroy-Regular.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Gilroy";  
+	src: url("../Fotns/Gilroy-Light.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: "Gilroy";  
+	src: url("../Fotns/Gilroy-Bold.ttf") format("truetype"); 
+	font-style: normal; 
+	font-weight: 600;
+}
